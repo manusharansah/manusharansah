@@ -36,24 +36,6 @@ Hi, I'm **Manu Sharan Kumar**, a passionate **Computer Engineering student** at 
 
 ---
 
-## 🔥 Featured Projects
-
-- **[AI-Powered Chatbot](https://github.com/yourusername/chatbot)**  
-  A conversational AI with NLP for smarter interactions.  
-  *Tech: Python, TensorFlow, Flask* | [Demo](https://yourwebsite.com)
-
-- **[Portfolio Website](https://github.com/yourusername/portfolio)**  
-  A responsive personal site with modern UI and animations.  
-  *Tech: React, Tailwind CSS, JavaScript* | [Live](https://yourwebsite.com)
-
-- **[Student Performance Predictor](https://github.com/yourusername/ml-predictor)**  
-  An ML model predicting grades, deployed with Streamlit.  
-  *Tech: Python, Scikit-learn, Pandas* | [Demo](https://yourwebsite.com)
-
-> ✨ Check out my [repositories](https://github.com/yourusername?tab=repositories) for more!
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -79,20 +61,19 @@ Hi, I'm **Manu Sharan Kumar**, a passionate **Computer Engineering student** at 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/yourusername" target="_blank" aria-label="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-circle&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://twitter.com/yourusername" target="_blank" aria-label="Twitter">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-circle&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://instagram.com/yourusername" target="_blank" aria-label="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-circle&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio" />
+  <a href="https://yourwebsite.com" target="_blank" aria-label="Portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-circle&logo=internetexplorer&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
 ---
 
 ## 🎉 Let's Build the Future!
