@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Universe! 🚀
 
-![Profile Banner](https://via.placeholder.com/1200x200.png?text=Manu+Sharan+Kumar+-+AI+Innovator)
+![Profile Banner](/banner.svg)
 
 Hi, I'm **Manu Sharan Kumar**, a passionate **Computer Engineering student** at **Advanced College of Engineering and Management**. I'm hooked on building **AI & ML solutions** and crafting **sleek web experiences**! 🌟
 
