@@ -81,7 +81,7 @@ Hi, I'm **Manu Sharan Kumar**, a passionate **Computer Engineering student** at 
 Got an idea for an **AI project** or **web app**? Let's collaborate! 🚀
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=manusharansah&color=brightgreen" alt="Profile Views" />
 </p>
 
 > *“The future belongs to those who believe in the beauty of their dreams.”* — Eleanor Roosevelt
