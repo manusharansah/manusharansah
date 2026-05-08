@@ -1,13 +1,7 @@
 # 👋 Hi, I'm Manu Sharan Kumar!
-<div align="center">
-  <img src="./profileBanner.svg" alt="Manu Sharan Kumar" width="100%"/>
-</div>
 In a world where change is the only constant, I stay curious, embrace new technologies, and never lose focus on building things that matter.
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FF88&center=true&vCenter=true&width=500&lines=Computer+Engineering+Undergraduate;Tech+Enthusiast;Turning+Curiosity+Into+Code" alt="Typing SVG" />
-</p>
-
 <p align="center">
   <b>Computer Engineering Undergraduate</b> · ACEM, Tribhuvan University · Kathmandu, Nepal
 </p>
