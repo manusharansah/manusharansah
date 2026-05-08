@@ -100,8 +100,8 @@ class Manu:
 | 🥇 Achievement | 📅 Year | 🏛️ Organization |
 |:---|:---:|:---|
 | **IOE Entrance Exam — Rank 1 Nationwide** | 2080 B.S. | Institute of Engineering, Tribhuvan University |
-| **TU Topper Award** — Perfect 4.00 GPA, Sem I · Cash Prize Rs. 25,000 | 2080 B.S. | Tribhuvan University |
-| **PEA National Academic Reward** · Cash Prize Rs. 50,000 | 2080 B.S. | PEA Nepal |
+| **TU Topper Award** — Secured a perfect 4.00 GPA in Semester I and received a cash prize of Rs. 25,000 in recognition of top academic performance | 2080 B.S. | Tribhuvan University |
+| **PEA National Academic Excellence Reward** — Honored for exceptional academic achievement with a cash prize of Rs. 50,000 | 2080 B.S. | PEA Nepal |
 
 ---
 
