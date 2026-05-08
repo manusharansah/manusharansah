@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Manu Sharan Kumar!
+<div align="center">
+  <img src="./profileBanner.svg" alt="Manu Sharan Kumar" width="100%"/>
+</div>
 In a world where change is the only constant, I stay curious, embrace new technologies, and never lose focus on building things that matter.
 
 <p align="center">
