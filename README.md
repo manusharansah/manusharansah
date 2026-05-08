@@ -2,7 +2,7 @@
 In a world where change is the only constant, I stay curious, embrace new technologies, and never lose focus on building things that matter.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FF88&center=true&vCenter=true&width=500&lines=Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FF88&center=true&vCenter=true&width=500&lines=Computer+Engineering+Undergraduate;Tech+Enthusiast;Turning+Curiosity+Into+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -91,10 +91,10 @@ class Manu:
 
 ## 🌟 What I'm Working On
 
-- ☁️ Mastering **AWS Cloud** for scalable deployments
-- 🧪 Experimenting with **Advanced ML Systems** and **Generative AI**
-- 📚 Learning **MLOps** for production AI deployment
-- 📝 Contributing to **Open Source** (GSoC prep)
+- ☁️ Mastering **Cloud Technologies** for scalable deployments
+- 🧪 Learning **Advanced ML Systems** and **Generative AI**
+- 📚 Exploring **Techologies adnd Tools** for increasing productivity.
+- 📝 Contributing to **Open Source** 
 
 ---
 
