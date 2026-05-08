@@ -112,7 +112,7 @@ class Manu:
 | Platform | Link |
 |:---:|:---:|
 | LinkedIn | [manusharansah](https://linkedin.com/in/manusharansah) |
-| Mail | [manusharansah@acem.edu.np](mailto:manusharansah@gmail.com) |
+| Mail | [manusharansah@gmail.com](mailto:manusharansah@gmail.com) |
 | Facebook | [manusharansah](https://facebook.com/manusharansah) |
 
 </div>
