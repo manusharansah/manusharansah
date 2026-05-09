@@ -68,7 +68,7 @@ class Manu:
 
 ## 🔷 Featured Projects
 
-### [Insurance Premium Category Predictor](https://github.com/manusharansah/insurance-predictor)
+### [Insurance Premium Category Predictor](https://github.com/manusharansah/FastAPI/tree/main/insurance_premium_prediction_project)
 > ML-powered REST API — fully containerized and production-ready.
 
 - FastAPI + Pydantic backend with Swagger documentation
@@ -78,7 +78,7 @@ class Manu:
 
 ---
 
-### [Student Performance Prediction Model](https://github.com/manusharansah/student-performance)
+### [Student Performance Prediction Model](https://github.com/bishal-777/Student-Performance-Predictor)
 > End-to-end ML regression pipeline on academic and behavioral data.
 
 - Data cleaning → EDA → feature engineering → model evaluation
