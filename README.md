@@ -105,6 +105,19 @@ class Manu:
 
 ---
 
+## 📊 Github Stats
+<div align="center">
+  <img height="160" src="https://github-readme-stats-nine-iota-93.vercel.app/api?username=manusharansah&show_icons=true&theme=radical&count_private=true" />
+  <img height="160" src="https://github-readme-stats-nine-iota-93.vercel.app/api/top-langs/?username=manusharansah&layout=compact&theme=radical" />
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=manusharansah&theme=radical)](https://github.com/manusharansah)
+
+</div>
+
+---
 ## 🤝 Let's Connect
 
 <div align="center">
