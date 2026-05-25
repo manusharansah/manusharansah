@@ -20,7 +20,7 @@ class Manu:
 ```
 
 - 🎓 Pursuing a Bachelor's in **Computer Engineering** at ACEM
-- 🧠 Deeply invested in **Machine Learning, Deep Learning, NLP & MLOps**
+- 🧠 Deeply interested and continually exploring in **Machine Learning, Deep Learning, NLP & MLOps**
 - ☁️ Exploring **AWS Cloud**, **Generative AI** & modern web frameworks
 - 🎯 Goal: Develop **tech-driven products** for societal impact
 - 😄 Fun Fact: I love solving complex problems and sipping chai! ☕
