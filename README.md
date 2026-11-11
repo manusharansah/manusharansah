@@ -82,7 +82,16 @@ class Manu:
 
 ---
 
-### [MargaAI Nepal](https://github.com/manusharansah/Margadarshan)
+### [VidyaChain](https://vidyachain.vercel.app)
+> Blockchain based certificate verification, built at KU Hackfest 2025.
+
+- Tamper resistant credential verification to combat certificate fraud in Nepal
+- Instant verification without a central authority
+- Certificate issuance and revocation restricted to the issuing authority
+
+---
+
+<!--### [MargaAI Nepal](https://github.com/manusharansah/Margadarshan)
 > GIS powered delivery route optimization for Nepal's hilly, disaster prone terrain.
 
 - Yen's K shortest paths and a Held Karp TSP solver over a cost model of slope, road type, hazard score and distance
@@ -100,22 +109,13 @@ class Manu:
 
 ---
 
-### [VidyaChain](https://vidyachain.vercel.app)
-> Blockchain based certificate verification, built at KU Hackfest 2025.
-
-- Tamper resistant credential verification to combat certificate fraud in Nepal
-- Instant verification without a central authority
-- Certificate issuance and revocation restricted to the issuing authority
-
----
-
 ### [SajiloSewa](https://github.com/manusharansah/protobytes-2.0-team-VoiceNepal)
 > Voice assistant for government services, built at Protobytes Hackathon 2.0 (PACE, ACEM).
 
 - Guides citizens through government services using natural language
 - Designed for rural and less tech savvy users
 
----
+--->
 
 ### [Insurance Premium Category Predictor](https://github.com/manusharansah/FastAPI/tree/main/insurance_premium_prediction_project)
 > ML-powered REST API — fully containerized and production-ready.
