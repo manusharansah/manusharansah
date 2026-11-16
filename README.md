@@ -127,7 +127,7 @@ class Manu:
 
 --->
 
-### [Insurance Premium Category Predictor](https://github.com/manusharansah/FastAPI/tree/main/insurance_premium_prediction_project)
+### [Insurance Premium Category Predictor](https://hub.docker.com/r/manusharansah/insurance_premium_predictor)
 > ML-powered REST API — fully containerized and production-ready.
 
 - FastAPI + Pydantic backend with Swagger documentation
