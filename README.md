@@ -60,7 +60,7 @@ class Manu:
     </td>
     <td align="center"><b>DevOps & Tools</b><br><br>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+      <img src="https://skillicons.dev/icons?i=aws" height="20" alt="AWS"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
     </td>
     <td align="center"><b>Frontend</b><br><br>
@@ -79,6 +79,16 @@ class Manu:
 - Flutter app with a Supabase backend (PostgreSQL, Auth, Storage, Edge Functions)
 - Personalized Study, Job and Business tracks, mentor profiles, in app intro videos and username search
 - Crashlytics crash reporting and CI, with the production launch in preparation
+
+---
+
+### [Vantage: Lunar Landing Site Navigator](https://lunarsitenavigator.vercel.app)
+> Mission planning web platform for the Moon's south pole, built by Team Cosmic Error 404 for NASA Space Apps Challenge 2026.
+
+- Models sunlight, power, battery backup and direct Earth communication windows for 24 landing sites, using real LRO LOLA terrain horizons and NASA/JPL SPICE ephemeris through 2040
+- Mission planner that ranks every site for any date window, plus a 3D WebGL replay of a lander's days on 20 m lunar terrain
+- AryaBot, an AI assistant with a zero hallucination pipeline: deterministic router, retriever and calculator, an LLM writer limited to curated NASA facts, and a validator that drops any uncited sentence
+- Vanilla JavaScript, three.js and Vite with all calculations running in the browser; AWS Lambda for the chatbot endpoint, deployed on Vercel
 
 ---
 
