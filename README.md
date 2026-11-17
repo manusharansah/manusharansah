@@ -76,9 +76,9 @@ class Manu:
 ### [Talent Hub](https://play.google.com/store/apps/details?id=com.ostontechnology.talent_hub_app)
 > Mobile platform for Nepali students: mentors, opportunities and study guidance. On Google Play, in active development.
 
-- Flutter app with a Supabase backend (PostgreSQL, Auth, Storage, Edge Functions)
+- Flutter app
 - Personalized Study, Job and Business tracks, mentor profiles, in app intro videos and username search
-- Crashlytics crash reporting and CI, with the production launch in preparation
+- Production launch in preparation
 
 ---
 
