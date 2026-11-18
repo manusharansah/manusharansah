@@ -83,12 +83,12 @@ class Manu:
 ---
 
 ### [Vantage: Lunar Landing Site Navigator](https://lunarsitenavigator.vercel.app)
-> Mission planning web platform for the Moon's south pole, built by Team Cosmic Error 404 for NASA Space Apps Challenge 2026.
+> A browser-based mission-planning platform that helps mission planners, educators, and the public compare lunar south pole landing sites and launch windows. Built by Team Cosmic Error 404 for the NASA Space Apps Challenge 2026.
 
-- Models sunlight, power, battery backup and direct Earth communication windows for 24 landing sites, using real LRO LOLA terrain horizons and NASA/JPL SPICE ephemeris through 2040
-- Mission planner that ranks every site for any date window, plus a 3D WebGL replay of a lander's days on 20 m lunar terrain
-- AryaBot, an AI assistant with a zero hallucination pipeline: deterministic router, retriever and calculator, an LLM writer limited to curated NASA facts, and a validator that drops any uncited sentence
-- Vanilla JavaScript, three.js and Vite with all calculations running in the browser; AWS Lambda for the chatbot endpoint, deployed on Vercel
+- **Survivability modelling:** Evaluates sunlight, solar power, battery backup, and direct Earth communication windows across 24 landing sites. It uses ray-traced LRO LOLA terrain horizons and NASA/JPL SPICE ephemeris through 2040.
+- **Mission planner and 3D replay:** Ranks every site for any mission length and date window, and replays a lander's days in WebGL on real 20 m lunar terrain.
+- **AryaBot, a verified AI assistant:** Deterministic routing, retrieval, and calculation feed an LLM writer restricted to curated NASA sources. A validator then removes any sentence that is uncited or contains unsupported figures, so every answer is checked before it is shown.
+- **Engineering:** Vanilla JavaScript, three.js, and Vite, with all calculations running client-side. AWS Lambda serves the chatbot endpoint, and the app is deployed on Vercel.
 
 ---
 
