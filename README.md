@@ -2,7 +2,7 @@
 
 In a world where change is the only constant, I stay curious, embrace new technologies, and never lose focus on building things that matter.
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FF88&center=true&vCenter=true&width=600&lines=Computer+Engineering+Undergraduate;CTO+@+Oston+Technlogy;AWS+Certified+DevOps+Engineer+Professional;IOE+Nationwide+Rank+1+2080;Tech+Enthusiast;Turning+Curiosity+Into+Code;Founding+Chair+@+IEEE+ACEM+STB;Founding+Group+Leader+@+AWS+SBG+at+ACEM;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FF88&center=true&vCenter=true&width=600&lines=Computer+Engineering+Undergraduate;CTO+@+Oston+Technlogy;AWS+Certified+Professional+DevOps+Engineer;IOE+Nationwide+Rank+1+2080;Tech+Enthusiast;Turning+Curiosity+Into+Code;Founding+Chair+@+IEEE+ACEM+STB;Founding+Group+Leader+@+AWS+SBG+at+ACEM;" alt="Typing SVG" />
 <p align="center">
   <b>Computer Engineering Undergraduate</b> · ACEM, Tribhuvan University · Kathmandu, Nepal
 </p>
